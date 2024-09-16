@@ -1,1 +1,2 @@
-# Demo applications to explaore LocalRag appliations using LangChain, llama and phi3 
+# Demo applications to explore 
+# 	LocalRag appliations using LangChain, llama and phi3 
