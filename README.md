@@ -1,5 +1,5 @@
 # Demo applications to explore 
-# 	LocalRag appliations using 
+# 	Local RAG application using 
 -  LangChain
 -  llama
 -  phi3
